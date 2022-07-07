@@ -15,3 +15,18 @@ However, I also made it so that it can also check if it's an actual integer and 
 did this with negative integers.
 
 ![This](/JGraspImages/IsEven.PNG)
+
+# Speed
+This project calculates the average speed depending on the distance and time using miles and hours respectively. I've used the JOptionPane for
+this one to make it look a little nicer. I gave the user two questions: How many miles have you driven and How many hours did it take to get to
+your destination? I then calculated the result by using your distance and dividing it by your time, getting your average speed. In this case, I
+drove 6 miles in 5 hours(that is really slow), giving me an average speed of 1.2. It then prompts you to try again or not. If you don't want to 
+try again, the program terminates itself, but if you do, it goes back to the first question. 
+
+![This](/JGraspImages/Miles.PNG)
+
+![This](/JGraspImages/Hours.PNG)
+
+![This](/JGraspImages/Speed.PNG)
+
+![This](/JGraspImages/TryAgain.PNG)
