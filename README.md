@@ -30,3 +30,10 @@ again, the program terminates itself, but if you do, it goes back to the first q
 ![This](/JGraspImages/Speed.PNG)
 
 ![This](/JGraspImages/TryAgain.PNG)
+
+# Temperature
+This project converts preset temperature from Fahrenheit to Celsius in a table. It's a pretty simple project where I was trying to understand how
+to use for loops properly. Of course, I used a formula that calculates Celsius from -20F to 220F. Every time it's done with one of them, the 
+fahrenheit goes up by 10. I used a for loop for all of it. Nothing groundbreaking, of course, but I did well with what I had.
+
+![This](/JGraspImages/Temp.PNG)
