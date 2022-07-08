@@ -51,8 +51,19 @@ much and then rinse and repeat for the other two books. I also changed the font 
 
 ![This](/JGraspImages/Book.PNG)
 
+# Inventory
+This project is relatively the same as the Book project, but I took some liberties into adding way more. This time, I made 3 files and a text file. 
+The first one is the same as the first Book file, but the only difference is that I'm adding a quantity and making some changes if the user makes
+an input. In the second file, I made an array that counts how many Book objects there are and updates them if there are any changes. The third 
+one scans the text file with the reference of the Book class and checking how many there are in total. I've also made a code to check if the 
+program can check if there is a ISBN that equals 013478796X. Once it does, it gives you a prompt similar to the Book project. I also added a
+quantity question to see if the user wants to change the quantity of the book. 
 
+![This](/JGraspImages/Inventory.PNG)
 
+![This](/JGraspImages/Price.PNG)
+
+![This](/JGraspImages/Quantity.PNG)
 
 
 
