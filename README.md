@@ -39,3 +39,27 @@ fahrenheit goes up by 10. I used a for loop for all of it. Nothing groundbreakin
 ![This](/JGraspImages/Temp.PNG)
 
 # Book
+In this project, I used two java files! The first one prints out information using constructors that prints out the ISBN, the author, the title of the 
+book, the price, the edition, and the pubCode and turn them into strings and integers using getters and setters. The second java file makes an 
+object that has all the information of the book using the constructor that I made from the first file. I also made it so that the price can be 
+changed from your input using the setter from the first file. The first option asks if you want to change the price. If you do, then it'll ask for how 
+much and then rinse and repeat for the other two books. I also changed the font of the Option Panel since I wanted to know how to do it. 
+
+![This](/JGraspImages/BookQ.PNG)
+
+![This](/JGraspImages/BookPrice.PNG)
+
+![This](/JGraspImages/Book.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
