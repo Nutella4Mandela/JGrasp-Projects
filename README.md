@@ -75,6 +75,11 @@ year it was built and how much cargo or passenger it has using the toString meth
 was built and if it is a cargo or a cruise ship. It also loads or unloads any passenger or any cargo from the ships, making changes. The last file
 tries to scan the text file from your input and makes some changes. It uses that information, makes them into an array and prints the results. 
 
+![This](/JGraspImages/FleetQuestion.PNG)
+
+![This](/JGraspImages/TextFleet.PNG)
+
+![This](/JGraspImages/Fleet.PNG)
 
 
 
