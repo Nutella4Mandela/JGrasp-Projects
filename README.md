@@ -65,7 +65,15 @@ quantity question to see if the user wants to change the quantity of the book.
 
 ![This](/JGraspImages/Quantity.PNG)
 
-
+# Fleet
+In this project, I've used four java files and one text file. In the first file, I made a class called ship that has a name and the year that it was built
+in. I've used getters and setters for the two categories and also if there was a name change. The second file and the third file uses the
+CargoShip and the CruiseShip respectively, extending from the Ship class in the first file. In these files, there's a maximum and a
+minimum(trying to make it a negative, basically) of how much cargo and how many passengers it can hold. I made a boolean for both if that
+were to exceed the maximum or go through the minimum. If everything seemed to be in order, then it should print out what the name and 
+year it was built and how much cargo or passenger it has using the toString method. The text file says what is the ship's name and what year it
+was built and if it is a cargo or a cruise ship. It also loads or unloads any passenger or any cargo from the ships, making changes. The last file
+tries to scan the text file from your input and makes some changes. It uses that information, makes them into an array and prints the results. 
 
 
 
